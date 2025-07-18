@@ -12,3 +12,8 @@ JSON Data Handling Message payloads and user info are structured using JSON for 
 Modular JavaScript Codebase Organized and scalable JS code handling events, UI rendering, and socket interactions.
 
 🛠️ Technologies Used HTML5 CSS3 JavaScript (ES6+) Socket.IO JSON Node.js (for backend if used) 📚 Learning Outcomes Implemented two-way communication using WebSockets via Socket.IO. Designed a fully responsive chat interface using core web technologies. Worked with event-driven programming and real-time DOM updates. Managed message data in JSON format and handled user session events. ❗ Challenges Faced Ensuring smooth real-time updates without message duplication. Managing multiple user connections and maintaining UI sync across clients. Structuring modular JavaScript for scalability and readability. 🙌 Acknowledgements Mentor: Neela Santosh Organization: CodTech IT Solution 📌 Conclusion This project provided me with valuable experience in real-time web development and helped strengthen my frontend and socket programming skills. The guidance from my mentor was instrumental in completing this project successfully.-APP..
+
+OUTPUT:-
+
+<img width="1048" height="580" alt="Image" src="https://github.com/user-attachments/assets/ab6efec9-3f14-4f71-928d-280585006baa" />
+<img width="1048" height="572" alt="Image" src="https://github.com/user-attachments/assets/59f1fe19-d22b-4d14-bde1-b7e0e55730e8" />
